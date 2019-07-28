@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "angular-front"
+    },
+    {
+      "path": "laravel-back"
+    },
+    {
+      "path": "."
+    }
+  ],
+  "settings": {}
+}
