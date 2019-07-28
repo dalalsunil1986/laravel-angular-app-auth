@@ -11,9 +11,9 @@ A full stack web application built using a Laravel backend and an Angular 8 fron
 
 ## Screenshot
 
-📷
-(Also coming soon)
-![Alt text](./screenshot/screenshot.png?raw=true "Coming Soon")
+- 📷
+- coming soon
+  ![Alt text](./screenshot/screenshot.png?raw=true "Coming Soon")
 
 # Built with
 
